@@ -1,2 +1,1 @@
-# Day3_Lab2
-Lab2
+# devops-automation
